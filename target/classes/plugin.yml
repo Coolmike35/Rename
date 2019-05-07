@@ -1,0 +1,10 @@
+name: RenameCommand
+version: 1.0-SNAPSHOT
+main: me.coolmike35.rename.Rename
+api-version: 1.13
+authors: [Coolmike35]
+description: RenameCommand any item in the game!
+commands:
+  rename:
+    description: Rename anybodys item that they are holding!
+    permission: rename.rename
